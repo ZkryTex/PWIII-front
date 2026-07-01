@@ -75,4 +75,4 @@ La API utiliza los siguientes códigos HTTP:
 - 404: Not Found - Recurso no encontrado
 
 ## Pruebas
-Se recomienda usar Postman, Bruno o cualquier cliente HTTP para probar los endpoints.
+Para ingresar como administrador se utiliza el correo admin@gmail.com con la contraseña 123456
